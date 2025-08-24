@@ -1,7 +1,8 @@
 # Shop Zone
 
-A new Flutter project.
+E-commerce flutter app where users are able to add multiple items to the cart, remove them, proceed to checkout and add addresses , select shipping options and checkout.
 
-## Getting Started
+## Screenshots
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+
+
