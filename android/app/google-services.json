@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218134727595",
+    "project_id": "shop-zone-e76e2",
+    "storage_bucket": "shop-zone-e76e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218134727595:android:56d55367d78404773660ee",
+        "android_client_info": {
+          "package_name": "com.kazungudev.shopzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApqsXIDtipaqTnGNUMbIGiCZA9iq-88k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
